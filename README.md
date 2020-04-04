@@ -2,10 +2,10 @@
 Esempi pratici visti nel corso dei video dedicati ad Ecmascript6 sul nostro canale youtube https://www.youtube.com/c/DeVLearninG
 
 ## Sommario
-* [Parte 1](#Parte 1)
+* Parte 1
     * Hoisting
     * Let & Const
-* [Parte 2](#Parte 2)
+* Parte 2
     * Template Literal
     * Destructuring
     * Spread operator
