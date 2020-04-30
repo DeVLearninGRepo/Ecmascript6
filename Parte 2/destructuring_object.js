@@ -4,6 +4,6 @@ let user = {
     age: 40
 }
 
-const {name, surname, age} = user;
+const {name, age} = user;
 
-console.log(`fullName: ${name} ${surname}, age: ${age}`);
+console.log(`fullName: ${name}, age: ${age}`);
